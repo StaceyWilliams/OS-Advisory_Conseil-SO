@@ -1,11 +1,11 @@
 # 1. CTO Open Source Advisory Board 
 ## Agenda 
-* Introduction and GC Goals of the Committee
+* **Introduction and GC Goals of the Committee**
   * Marc Brouillard, CTO, Government of Canada 
   * Jack Gulas, Partner, Eclipsys
-* Member introduction 
-* Review of Draft ToR (attached) for discussion and update 
-* Discussion on priority challenges 
+* **Member introduction**
+* **Review of Draft ToR (attached) for discussion and update**
+* **Discussion on priority challenges**
   * Open source procurement 
   * Open source culture 
 ## Mission of the board 
